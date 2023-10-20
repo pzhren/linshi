@@ -1,0 +1,390 @@
+- aeroplane: airplane, aircraft, jet, airliner, plane
+- backpack: rucksack, knapsack, haversack, pack, sack
+- furniture-other: furnishings, movables, fittings, appointments, fixtures
+- traffic sign (front): road sign, street sign, traffic signal
+- wall-tile: ceramic tile, wall cladding, tilework
+- ottoman: footstool, pouffe, stool, hassock
+- clutter: mess, jumble, litter, muddle, chaos
+- motorbike: motorcycle, bike, cycle, two-wheeler
+- ashcan: trash can, garbage can, dustbin, waste bin
+- bush: shrub, plant, hedge
+- static: stationary, still, motionless
+- carrot: root vegetable
+- column: pillar, post, shaft
+- waterdrop: droplet
+- pillow: cushion
+- floor: ground, flooring
+- sheep: ewe (female sheep), ram (male sheep), lamb (young sheep)
+- bookcase: bookshelf, bookrack
+- lane marking (only) - other: road marking
+- traffic sign - direction (back): directional sign
+- knife: blade, cutter
+- door: gateway, entranceway 
+- floor-tile: floor covering 
+- teddy bear: stuffed toy 
+- swimming pool: pool 
+- sea: ocean 
+- food: meal 
+- lake: pond 
+- palm: palm tree 
+- catch basin: storm drain 
+- banana: fruit 
+- traffic sign - parking: parking sign 
+- wine glas[s]: wine goblet 
+- lane marking - give way (single): yield sign 
+- blanket: throw 
+- toaster: bread toaster 
+- boat: vessel 
+- signage - ambiguou[s]: ambiguous sign 
+- window: casement 
+- lane marking - ambiguou[s]: ambiguous road marking 
+- skateboard: longboard 
+- mountain: peak 
+- bed : cot 
+- motorcyclist: biker, motorcycle rider, cyclist
+- lane marking - crosswalk: pedestrian crossing, zebra crossing, walkway
+- orange: citrus fruit, tangerine, mandarin
+- cake: pastry, dessert, sweet treat
+- hill: mound, knoll, hillock
+- dishwasher: dish machine, dish cleaner, dishwashing appliance
+- bedclothe: bedding, bed linen, bedspread
+- parking: car park, parking lot, parking space
+- canopy: awning, shade, cover
+- traffic light - cyclist: bicycle signal light, bike traffic signal, cyclist traffic light
+- wall-other: partition, barrier, divider
+- concrete block: cement block, cinder block, masonry unit
+- lane marking - arrow (split left or straight): directional arrow, traffic arrow, road marking
+- floor-other: ground, surface, flooring
+- cup: mug, teacup, drinking vessel
+- scissors: shears, cutting tool
+- clothe: garment, attire, apparel
+- pool table: billiard table, snooker table
+- laptop: notebook computer, portable computer
+- giraffe: long-necked animal, African mammal
+- bu: business unit? (this one is unclear)
+- ambiguous barrier: unclear obstacle, vague blockade
+- window-blind: window shade, window covering
+- lane marking - general: road marking, street line
+- traffic island: safety island, pedestrian refuge island
+- chandelier: hanging light fixture, pendant light
+- apparel: clothing, attire, garments
+- rider: horseman/horsewoman (if on horse), cyclist (if on bike), motorcyclist (if on motorcycle)
+- snowboard: snow sport equipment 
+- motorcycle: motorbike, bike 
+- snow: snowfall 
+- tray: platter 
+- painting: artwork 
+- broccoli: green vegetable 
+- water valve: water control valve 
+- book: novel 
+- train: locomotive 
+- mud: wet soil 
+- counter: countertop 
+- traffic light - pedestrian : pedestrian signal light 
+- barrier : blockade 
+- floor-stone : stone flooring 
+- carpet : rug 
+- mirror : looking glass 
+- path : trail 
+- ego vehicle : self-driving car 
+- gravel : small stones 
+- napkin : serviette 
+- waterfall : cascade 
+- traffic cone : safety cone 
+- screen door : storm door 
+- stairway : staircase 
+- floor-marble : marble flooring 
+- vegetable : veggie 
+- mailbox : postbox 
+- parking aisle : parking lane
+- door-stuff: door accessories, door hardware
+- barrel: cask, drum
+- wall-panel: wall board, wall sheeting
+- lane marking - arrow (left): left turn arrow, left directional arrow
+- conveyer belt: transport belt, moving belt
+- ceiling-other: overhead surface, upper interior surface
+- sculpture: statue, carving
+- signage - advertisement: ad sign, promotional signage
+- solid-other: solid object, solid material
+- mirror-stuff: mirror accessories, mirror hardware
+- lane marking - hatched (chevron): chevron marking, hatched road marking
+- sign: placard, notice
+- refrigerator: fridge, cooler
+- signage - other: miscellaneous sign, various signage
+- lane separator: lane divider, road separator
+- wall-wood: wooden wall, timber wall
+- bulletin board: notice board, pinboard
+- bottle: container, flask
+- traffic sign - temporary (front): temporary road sign, provisional traffic sign
+- lane marking - dashed line: broken line marking, dash road line
+- fence: barrier, railing, enclosure
+- building: structure, edifice, construction
+- curb cut: curb ramp, dropped kerb, pram ramp
+- towel: cloth, rag, napkin
+- basket: hamper, bin, container
+- lane marking - arrow (straight): straight arrow marking, forward direction arrow
+- parking meter: parking machine, ticket machine
+- chair: seat, armchair, stool
+- branch: twig, limb, bough
+- sink: basin, washbasin, washbowl
+- pot: pan, vessel, container
+- hair drier: hairdryer, blow dryer
+- dynamic: changing, active, variable
+- lane marking - stop line: stop line marking, halt line
+- wall-concrete: concrete wall, cement wall
+- diningtable: dining table, dinner table
+- armchair: lounge chair, recliner
+- window-other: other window types (this one is unclear without context)
+- person group: group of people, crowd
+- temporary barrier: temporary blockade, provisional barrier
+- couch: sofa, settee
+- hood: bonnet (UK), car hood
+- fruit: produce, sweet produce
+- fireplace: hearth, mantel
+- road side: roadside, curb, pavement edge
+- bannister: handrail, stair rail, railing
+- dog: canine, pup, hound
+- ceiling-tile: ceiling panel, drop ceiling tile
+- signage - store: store sign, shop signage, retail sign
+- structural-other: other structural elements (this one is unclear without context)
+- surfboard: wave rider, surf plank
+- computer: PC, desktop, laptop
+- wall-stone: stone wall, rock wall
+- airplane: aircraft, jet, airliner
+- straw: drinking straw, sipper
+- lane marking - arrow (split right or straight): right or straight directional arrow
+- cage: enclosure, pen, coop
+- desk-stuff: desk items, desk accessories
+- lane marking - other: other road markings (this one is unclear without context)
+- sconce: wall light, wall lamp
+- ground: earth, soil, terrain
+- dining table: dinner table, eating table
+- mouse: computer mouse, pointer device
+- fog: mist, haze
+- van: minivan, vehicle, transporter
+- traffic light: stoplight, signal light
+- microwave: microwave oven, heating appliance
+- cushion: pillow, pad, bolster
+- pole: post, rod, stake
+- low_vegetation: shrubs, undergrowth, ground cover
+- suitcase: luggage, bag, case
+- building-other: other types of buildings (this one is unclear without context)
+- floor-wood: wooden floor, hardwood floor
+- bowl: dish, basin, container
+- railing: rail, banister, balustrade
+- plate: dish, platter
+- water: H2O, liquid, aqua
+- land: ground, earth, terrain
+- traffic light - general (upright): upright traffic signal, vertical traffic light
+- lane marking - text: text road marking, lettered lane marking
+- lane marking - zigzag line: zigzag road marking
+- stool: seat, chair without a back
+- curtain: drapes, window covering
+- tree: plant, timber, wood
+- animal: creature, beast, fauna
+- service lane: access road, service road, frontage road
+- lane marking - symbol (other): other symbol road marking (this one is unclear without context)
+- donut: doughnut, sweet roll, pastry ring
+- kitchen island: cooking island, center island
+- cow: bovine, cattle
+- washer: washing machine, laundry machine
+- pothole: road hole, pavement pit
+- field: meadow, pasture, open land
+- box: container, case, package
+- stage: platform, podium, performance area
+- signage - back: back of sign (this one is unclear without context)
+- fan: ventilator, air circulator
+- mos: metal–oxide–semiconductor? (this one is unclear)
+- river: stream, waterway, brook
+- lane marking - arrow (right): right turn arrow, right directional arrow
+- platform: stand, podium, stage
+- lane marking - give way (row): yield line marking, give way line
+- kite: wind toy, flying toy
+- sky: heavens, atmosphere
+- tank: reservoir, container
+- shelf: rack, ledge, bookshelf
+- signage - information: information sign, info signage
+- trade name: brand name, business name
+- traffic sign - ambiguou: ambiguous traffic sign (this one is unclear without context)
+- car mount: vehicle mount, auto holder
+- hot dog: frankfurter, wiener, sausage in a bun
+- roof: rooftop, ceiling, top of a building
+- lane marking - arrow (other): other arrow road marking (this one is unclear without context)
+- manhole: sewer entrance, utility hole
+- hovel: shack, hut, small house
+- plant-other: other types of plants (this one is unclear without context)
+- caravan: trailer, mobile home
+- bicyclist: cyclist, bike rider
+- wardrobe: closet, clothes storage
+- tvmonitor: television monitor, TV screen
+- water-other: other types of water (this one is unclear without context)
+- lane marking - symbol (bicycle): bicycle symbol road marking
+- booth: stall, kiosk
+- cardboard: paperboard, corrugated fiberboard
+- road shoulder: roadside, edge of the road
+- coffee table: cocktail table, low table
+- lane marking - hatched (diagonal): diagonal hatched road marking
+- tennis racket: tennis racquet, tennis bat
+- base: foundation, bottom
+- cat: feline, kitty
+- impervious_surface: non-absorbent surface, waterproof surface
+- tie: necktie, cravat
+- vase: jar, urn
+- other vehicle: different vehicle, alternative vehicle
+- wall: barrier, partition
+- tower: spire, turret
+- bear: bruin, beast
+- case: box, container
+- wall-brick: brick wall, masonry wall
+- net: mesh, web
+- tv: television, telly
+- blind: window blind, shade
+- apple: fruit, pomaceous fruit
+- ground-other: other types of ground (this one is unclear without context)
+- railroad: railway, train track
+- driveway: drive, access road
+- desk: workstation, table
+- elephant: pachyderm, large mammal
+- leaf: foliage, frond
+- poster: placard, billboard
+- cell phone: mobile phone, smartphone
+- buffet: smorgasbord, self-service meal
+- rug: carpet, mat
+- on rail: on track, on railway
+- trash can: garbage bin, waste basket
+- traffic light - other: other traffic signal (this one is unclear without context)
+- ball: sphere, orb
+- bed: cot, berth
+- street light: streetlamp, road light
+- garage: carport, vehicle storage
+- windowpane: window glass, glazing
+- streetlight: road light, lamppost
+- minibike: mini motorcycle, small motorbike
+- toilet: lavatory, loo
+- grandstand: bleachers, spectator stand
+- bathtub: bath, tub
+- stove: cooker, range
+- arcade machine: game machine, coin-operated machine
+- keyboard: keypad, typing device
+- lane marking - straight line: straight line road marking, straight lane line
+- flag: banner, standard, ensign
+- light: illumination, lamp, lighting
+- vegetation: plants, flora, greenery
+- traffic sign - temporary (back): back of temporary traffic sign (this one is unclear without context)
+- utility pole: power pole, telephone pole
+- fork: prong, utensil
+- cctv camera: surveillance camera, security camera
+- zebra: striped horse, African equine
+- bike lane: bicycle lane, cycling path
+- traffic light - general (single): single traffic signal, standalone traffic light
+- rock: stone, boulder
+- fountain: water feature, spring, water fountain
+- countertop: counter, worktop
+- stone: rock, pebble
+- car: automobile, vehicle
+- awning: canopy, sunshade
+- tunnel: underpass, subway
+- umbrella: parasol, brolly
+- oven: stove, cooker
+- wood: timber, lumber
+- crosswalk - plain: pedestrian crossing, zebra crossing
+- bird: avian, fowl
+- ceiling: roof, overhead surface
+- bench: seat, pew
+- baseball glove: mitt, fielder's glove
+- bag: sack, pouch
+- sky-other: other types of sky (this one is unclear without context)
+- metal: alloy, iron
+- pottedplant: houseplant, indoor plant
+- sidewalk: pavement, footpath
+- spoon: utensil, silverware
+- glas: glass, tumbler
+- guard rail: safety rail, barrier
+- handbag: purse, bag
+- cupboard: cabinet, closet
+- playingfield: sports field, pitch
+- other rider: different rider (this one is unclear without context)
+- billboard: signboard, hoarding
+- rail track: railway track, train track
+- bar: pub, tavern
+- person: man, woman, firefighter, actor, policeman, teacher, doctor, engineer
+- pizza: pie, flatbread
+- cabinet: cupboard, case
+- ground animal: land animal (this one is unclear without context)
+- pavement: sidewalk, footpath
+- terrain: landscape, ground
+- lamp: light, lantern, light fixture
+- paper: sheet, parchment, stationery
+- skyscraper: high-rise, tower, tall building
+- phone booth: telephone booth, call box
+- sand: grit, silica, beach material
+- radiator: heater, heat exchanger
+- earth: soil, ground, dirt
+- swivel chair: rotating chair, office chair
+- fire hydrant: fire plug, fire pump
+- runway: airstrip, landing strip
+- toothbrush: dental brush
+- traffic sign frame: signpost, sign frame
+- escalator: moving staircase, moving steps
+- dirt: soil, earth, ground
+- clock: timepiece, chronometer
+- sports ball: game ball (specific type depends on the sport)
+- cloud: cumulus, stratus (specific type depends on the appearance)
+- chest of drawers: dresser, bureau
+- lane marking (only) - test: test lane marking (this one is unclear without context)
+- mat: rug, pad
+- junction box: electrical box, splice box
+- remote: remote control, clicker
+- pedestrian area: walkway, footpath
+- flower: bloom, blossom
+- track: path, trail (or rails for a train)
+- road median: central reservation (UK), median strip
+- curb: kerb (UK), edge of the pavement
+- gras: grass (this seems like a typo)
+- bridge: overpass, viaduct
+- road: street, highway, route
+- baseball bat: bat, slugger
+- lane marking (only) - dashed line: dashed lane line, broken lane marking
+- bicycle: bike, cycle
+- table: desk, countertop
+- lane marking (only) - crosswalk: crosswalk lane marking, pedestrian crossing line
+- ship: boat, vessel
+- screen: display, monitor
+- potted plant: houseplant, indoor plant
+- step: stair, riser
+- plant: flora, vegetation
+- cloth: fabric, material
+- sofa: couch, settee
+- monitor: screen, display
+- traffic sign: road sign, street sign
+- traffic sign - direction (front): directional traffic sign, guide sign
+- traffic light - general (horizontal): horizontal traffic signal, roadside traffic light
+- plastic: synthetic material, polymer
+- pole group: collection of poles (this one is unclear without context)
+- stop sign: halt sign, traffic stop sign
+- shower: bath, rinse
+- trailer: mobile home, caravan
+- house: home, residence
+- horse: equine, steed
+- pier: dock, wharf
+- frisbee: flying disc, disc toy
+- wheeled slow: slow-moving vehicle (this one is unclear without context)
+- traffic sign (back): back of traffic sign (this one is unclear without context)
+- textile-other: other types of fabric, various textiles
+- salad: greens, mixed vegetables
+- vehicle group: fleet of vehicles, collection of vehicles
+- cradle: crib, bassinet
+- signboard: signage, placard
+- food-other: other types of food (this one is unclear without context)
+- truck: lorry, pickup
+- crt screen: cathode ray tube display, tube screen
+- bike rack: bicycle stand, cycle rack
+- sandwich: sub, hoagie
+- dirt track: trail, path
+- stair: step, staircase
+- plaything: toy, game
+- ski: skis, ski equipment
+- tent: canopy, shelter
+- banner: flag, sign
+- seat: chair, bench
+- television receiver: TV set, television set
